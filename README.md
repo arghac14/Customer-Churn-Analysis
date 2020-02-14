@@ -1,7 +1,7 @@
 
 # Customer-Churn-Analysis
 
-Implementation of Decision Tree Classifier, Esemble Learning, Association Rule Mining and Clustering models(Kmodes & Kprototypes) for Customer attrition analysis of telecommunication company to identify the cause and conditions of the churn.
+Implementation of a hybrid model consisting of Decision Tree Classifier and Clustering models(Kmodes & Kprototypes) and Association Rule Mining for Customer churn analysis of telecommunication company.
 
 ### Contributers: [Arghadip Chakraborty](https://github.com/arghac14), [Sohel Raja Molla](https://github.com/SohelRaja), [Disha Sinha](https://github.com/disha2sinha), [Shankhadeep Giri](https://github.com/shankha2018). 
 
