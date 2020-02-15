@@ -1,7 +1,7 @@
 
 # Customer-Churn-Analysis
 
-Implementation of a hybrid model consisting of Decision Tree Classifier and Clustering models(Kmodes & Kprototypes) and Association Rule Mining for Customer churn analysis (Feature selection and churn prediction) of telecommunication dataset (IBM Watson Dataset).
+Implementation of a hybrid model consisting of Decision Tree Classifier and Clustering models(Kmodes & Kprototypes) and Association Rule Mining for Customer churn analysis (Feature selection and churn prediction) on telecommunication dataset (IBM Watson Dataset).
 
 ### Contributers: [Arghadip Chakraborty](https://github.com/arghac14), [Sohel Raja Molla](https://github.com/SohelRaja), [Disha Sinha](https://github.com/disha2sinha), [Shankhadeep Giri](https://github.com/shankha2018). 
 
